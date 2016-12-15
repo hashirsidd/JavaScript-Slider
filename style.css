@@ -2,12 +2,13 @@ body {
     margin: 0px;
     padding: 0px;
     /*height: 3600px;*/
+    height: 800px !important;
 }
 .div-one {
     background-image: url(./images/bg.jpg);
     background-size: cover;
     background-position: center;
-    height: 860px;
+    height: 854px;
     width: 100%;
     margin: 0px;
     padding: 0px;
